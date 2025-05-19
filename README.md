@@ -1,3 +1,3 @@
 ## 🎮 Tableau Dashboard: Video Game Sales
 
-![Tableau Dashboard](./dashboard.png)
+![Tableau Dashboard](./dashboard.jpg)
