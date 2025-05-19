@@ -52,7 +52,7 @@
 ##  Dataset
 -  [Kaggle: Video Game Sales Dataset](https://www.kaggle.com/datasets/gregorut/videogamesales)
 
-## 🛠 Tools Used
+##  Tools Used
 - Tableau (Data Visualization)
 - Python (Data Cleaning)
 - GitHub (Project Hosting)
