@@ -61,6 +61,7 @@
 ## In-Depth Analysis
 
 **คำถามที่1 : Platform ไหนขายดีในแต่ละช่วงปี?**
+
 ![Tableau Grap2](image/ยอดขายตามแพลตฟอร์ม.png)
 ![Tableau Grap1](image/แนวโน้มยอดขายตามเวลา.png)
 
