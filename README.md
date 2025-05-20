@@ -6,7 +6,7 @@
 
 ##  Tableau Dashboard Overview
 
-![Tableau Dashboard](Dashboad1.jpg)
+![Tableau Dashboard](image/Dashboad1.jpg)
 
 ---
 
