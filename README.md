@@ -104,9 +104,9 @@
 
 **คำถามที่ 6: เกมใดประสบความสำเร็จในแต่ละภูมิภาค?**
 
-![Tableau Grap1](image/Top%10%เกมขายดีที่สุดในญี่ปุ่น.png)
-![Tableau Grap2](image/Top%10%เกมขายดีที่สุดในยุโรป.png)
-![Tableau Grap3](image/Top%10%เกมขายดีที่สุดใน%อเมริกาเหนือ.png)
+![Tableau Grap1](image/Top10เกมขายดีที่สุดในญี่ปุ่น.png)
+![Tableau Grap2](image/Top10เกมขายดีที่สุดในยุโรป.png)
+![Tableau Grap3](image/Top10เกมขายดีที่สุดใน%อเมริกาเหนือ.png)
 
 
 
