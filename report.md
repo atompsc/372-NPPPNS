@@ -225,5 +225,4 @@
 ---
 
 ### ลิงก์ Tableau Dashboard:
- [ลิงก์ Tableau Dashboard]- [Kaggle: Video Game Sales Dataset]]()
  - [ลิงก์ Tableau Dashboard](https://public.tableau.com/views/VideoGameSalesDashboard_17477176844180/Dashboard1?:language=th-TH&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
