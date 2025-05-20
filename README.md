@@ -106,7 +106,7 @@
 
 ![Tableau Grap1](image/Top10เกมขายดีที่สุดในญี่ปุ่น.png)
 ![Tableau Grap2](image/Top10เกมขายดีที่สุดในยุโรป.png)
-![Tableau Grap3](image/Top10เกมขายดีที่สุดใน%อเมริกาเหนือ.png)
+![Tableau Grap3](image/Top10เกมขายดีที่สุดในอเมริกาเหนือ.png)
 
 
 
