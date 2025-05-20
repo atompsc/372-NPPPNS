@@ -105,8 +105,8 @@
 **คำถามที่ 6: เกมใดประสบความสำเร็จในแต่ละภูมิภาค?**
 
 ![Tableau Grap1](image/Top10เกมขายดีที่สุดในญี่ปุ่น.png)
-![Tableau Grap2](image/Top10เกมขายดีที่สุดในยุโรป.png)
-![Tableau Grap3](image/Top10เกมขายดีที่สุด ในอเมริกาเหนือ.png)
+![Tableau Grap2]([(https://github.com/atompsc/VideoGameSalesAnalysis/blob/main/image/Top%2010%20%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B8%82%E0%B8%B2%E0%B8%A2%E0%B8%94%E0%B8%B5%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%AA%E0%B8%B8%E0%B8%94%E0%B9%83%E0%B8%99%E0%B8%A2%E0%B8%B8%E0%B9%82%E0%B8%A3%E0%B8%9B.png))
+
 
 
 
