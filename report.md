@@ -243,4 +243,4 @@
 
 
 ### ลิงก์ YouTube:
-- [ลิงก์ YouTube](https://youtu.be/TrR6w1sgA9k).
+- [ลิงก์ YouTube](https://youtu.be/TrR6w1sgA9k)
